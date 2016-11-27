@@ -1,2 +1,1 @@
-# First-Steps
-My first steps in github repositories.
+This is my first things on GitHub, I'm just trying this...
